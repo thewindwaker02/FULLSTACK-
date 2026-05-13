@@ -1,0 +1,8 @@
+#canvas {
+    background-color: rgb(131, 218, 245);
+}
+.center {
+    display: flex;
+    justify-content: center;
+    
+}
