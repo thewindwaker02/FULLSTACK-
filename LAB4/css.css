@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(109, 207, 214);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.painel-jogo {
+    background: rgb(156, 158, 157);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 10px 20px rgb(255, 255, 255);
+}
+
+.titulo {
+    font-size: 60px;
+    font-style: oblique;
+    margin: 0 0 20px 0;
+    color: #bbf3f5;
+}
+
+.entrada {
+    margin: 20px 0;
+}
+
+input {
+    padding: 10px;
+    font-size: 20px;
+    width: 80px;
+    text-align: center;
+    border: 2px solid #c0d839;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #a3155c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2a008b;
+}
+
+.mensagem {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #1c3a52;
+}
