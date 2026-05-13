@@ -1,0 +1,18 @@
+.pena{
+    font-style: italic;
+    color: #23531f;
+    size: 18px;
+}
+#ui{
+    color: darkmagenta;
+}
+a:hover{
+    color: forestgreen;
+}
+body{
+     margin: 0;
+    height: 100vh;
+    display: grid;
+    place-items: center; /* Centraliza horizontal e vertical */
+    background-color: rgb(20, 13, 20);
+}
